@@ -1,0 +1,91 @@
+.mainheader,
+.contactheader {
+    height: 200px;
+    width:100%;
+    object-fit: cover;
+}
+
+h1 {
+    background-color: #f58ea0;
+    color: #dad8d8;
+}
+
+h2 {
+    background-color:#dad8d8;
+    color: #f112f1;
+
+}
+
+#main-p {
+    background-color: hotpink;
+}
+
+h3 {
+    background-color: #ebf64d;
+}
+
+h3:hover {
+    color: blue
+}
+
+#h3-contact {
+    background-color: white;
+}
+
+#contact:hover {
+    background-color: #f58ea0;
+} 
+
+#contact {
+    background-color: aqua;
+    list-style: circle;
+}
+
+a img {
+    border-radius: 50%;
+    width: 125px;
+    height: 100px;
+    cursor: pointer;
+}
+
+#img-lollipop {
+    border: 5px solid yellow;
+    float: left;
+}
+
+#img-candy-floss {
+    border: 5px solid lightblue;
+    float: right;
+} 
+
+#img-jellybeans {
+    border: 5px solid lightcoral;
+    float: left;
+}
+
+#p-partners {
+    font-weight: bold;
+}
+
+#links {
+    list-style: none;
+    background-color: aqua;
+    
+}
+
+#links:hover {
+    background-color:#ebf64d;
+}
+
+#links a:active {
+    background-color:#f112f1;
+    color:white;
+}
+
+h4 a {
+    color:aqua;
+} 
+
+#mainpage {
+    color:#f58ea0;
+}
